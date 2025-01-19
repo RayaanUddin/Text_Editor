@@ -5,6 +5,8 @@ This is a Java Swing-based text editor that allows users to create, open, edit, 
 
 It optimises it-self to what OS you are running, macOS or other. All are compatible. It makes use of macOS menu bar if using macOS and uses CMD for shortcuts rather than CTRL.
 
+The preferences are saved using properties.
+
 ## Features
 
 ### Basic Text Editing
